@@ -10,5 +10,5 @@ COMMAND_ENABLE = no                # Commands for debug and configuration
 #SLEEP_LED_ENABLE = yes            # Breathing sleep LED during USB suspend
 NKRO_ENABLE = yes                  # USB Nkey Rollover
 AUDIO_ENABLE = no
-RGB_MATRIX_ENABLE = IS31FL3733     # Use RGB matrix
+#RGB_MATRIX_ENABLE = IS31FL3733     # Use RGB matrix
 NO_USB_STARTUP_CHECK = no          # Disable initialization only when usb is plugged in
